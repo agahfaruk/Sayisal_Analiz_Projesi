@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "urun_fiyat_bulma/1.0.0": {
+        "runtime": {
+          "urun_fiyat_bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "urun_fiyat_bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

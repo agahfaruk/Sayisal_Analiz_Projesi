@@ -1,0 +1,42 @@
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\bin\Debug\net8.0\urun_fiyat_bulma.exe
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\bin\Debug\net8.0\urun_fiyat_bulma.deps.json
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\bin\Debug\net8.0\urun_fiyat_bulma.runtimeconfig.json
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\bin\Debug\net8.0\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\bin\Debug\net8.0\urun_fiyat_bulma.pdb
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.AssemblyInfoInputs.cache
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.AssemblyInfo.cs
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.csproj.CoreCompileInputs.cache
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\refint\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.pdb
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\urun_fiyat_bulma.genruntimeconfig.cache
+C:\Users\kucuk\Desktop\urun_fiyat_bulma\obj\Debug\net8.0\ref\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.exe
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.deps.json
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.runtimeconfig.json
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.pdb
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.AssemblyInfoInputs.cache
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.AssemblyInfo.cs
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.csproj.CoreCompileInputs.cache
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\refint\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.pdb
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.genruntimeconfig.cache
+C:\Users\kucuk\Desktop\urun_fiyat_bulma_c#\obj\Debug\net8.0\ref\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.exe
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.deps.json
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.runtimeconfig.json
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\bin\Debug\net8.0\urun_fiyat_bulma.pdb
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.AssemblyInfoInputs.cache
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.AssemblyInfo.cs
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.csproj.CoreCompileInputs.cache
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\refint\urun_fiyat_bulma.dll
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.pdb
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\urun_fiyat_bulma.genruntimeconfig.cache
+C:\Users\kucuk\Desktop\sayısal analiz ödev\urun_fiyat_bulma_c#\obj\Debug\net8.0\ref\urun_fiyat_bulma.dll
